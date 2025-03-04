@@ -1,6 +1,6 @@
 {
-  "name": "DeepEmeraldDarkMobile",
-  "description": "A deeper, darker green theme for mobile AMOLED screens.",
+  "name": "DeepEmeraldDark",
+  "description": "A deeper, darker green theme with a grey sidebar for mobile AMOLED screens.",
   "version": "1.0",
   "authors": [
     {
@@ -100,7 +100,7 @@
       "#102018"
     ],
     "HOME_BACKGROUND": [
-      "#041008"
+      "#282828"
     ],
     "BORDER_FAINT": [
       "#384838"
