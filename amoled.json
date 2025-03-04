@@ -1,10 +1,10 @@
 {
-  "name": "DeepEmeraldDark",
-  "description": "A deeper, darker green theme with a grey sidebar for mobile AMOLED screens.",
+  "name": "Deep Emerald Green",
+  "description": "A deeper, darker green theme with a grey sidebar and white text for mobile AMOLED screens.",
   "version": "1.0",
   "authors": [
     {
-      "name": "Ray",
+      "name": "Ray)",
       "id": "852928602735640576"
     }
   ],
@@ -124,28 +124,28 @@
       "#0C1810"
     ],
     "HEADER_PRIMARY": [
-      "#81C784"
+      "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
-      "#A5D6A7"
+      "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#C8E6C9"
+      "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#A5D6A7"
+      "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#586858"
+      "#999999"
     ],
     "INTERACTIVE_NORMAL": [
-      "#689F38"
+      "#FFFFFF"
     ],
     "MENTION_BACKGROUND": [
       "#2E7D3233"
     ],
     "MENTION_FOREGROUND": [
-      "#81C784"
+      "#FFFFFF"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#0C1810"
@@ -172,19 +172,19 @@
       "#558B2F"
     ],
     "TEXT_LINK": [
-      "#689F38"
+      "#FFFFFF"
     ],
     "TEXT_MUTED": [
-      "#788878"
+      "#999999"
     ],
     "TEXT_NORMAL": [
-      "#A5D6A7"
+      "#FFFFFF"
     ],
     "TEXT_PRIMARY": [
-      "#A5D6A7"
+      "#FFFFFF"
     ],
     "TEXT_SECONDARY": [
-      "#81C784"
+      "#FFFFFF"
     ],
     "BG_MOD_FAINT": [
       "#102014"
@@ -198,7 +198,7 @@
     "BRAND_500": "#388E3C",
     "PLUM_20": "#000000",
     "PRIMARY_600": "#041008",
-    "WHITE_500": "#C8E6C9"
+    "WHITE_500": "#FFFFFF"
   },
   "background": {
     "color": "#000000"
