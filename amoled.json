@@ -1,0 +1,212 @@
+{
+  "name": "VibrantDarkMobile",
+  "description": "A vibrant dark theme for mobile AMOLED screens.",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Ray",
+      "id": "852928602735640576"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "#333333"
+    ],
+    "CHAT_BACKGROUND": [
+      "#121212"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#6a5acd"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#1a1a1a"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#8a2be2"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#9370db"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#444444"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#555555"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#222222"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#181818"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#1a1a1a"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#202020"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#99aaff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#202020"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#222222"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#121212"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#1a1a1a"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#6a5acd"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#5f46a3"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#333333"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#6a5acd"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#121212"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#1a1a1a"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#181818"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#222222"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#121212"
+    ],
+    "BG_BACKDROP": [
+      "#000000"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#1a1a1a"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#222222"
+    ],
+    "HOME_BACKGROUND": [
+      "#121212"
+    ],
+    "BORDER_FAINT": [
+      "#555555"
+    ],
+    "BORDER_STRONG": [
+      "#777777"
+    ],
+    "BORDER_SUBTLE": [
+      "#666666"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#1a1a1a"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#121212"
+    ],
+    "CHANNEL_ICON": [
+      "#b39ddb"
+    ],
+    "EMBED_BACKGROUND": [
+      "#181818"
+    ],
+    "HEADER_PRIMARY": [
+      "#d1c4e9"
+    ],
+    "HEADER_SECONDARY": [
+      "#e0e0e0"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ffffff"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#e0e0e0"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#888888"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#b39ddb"
+    ],
+    "MENTION_BACKGROUND": [
+      "#8a2be233"
+    ],
+    "MENTION_FOREGROUND": [
+      "#d1c4e9"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#181818"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#222222"
+    ],
+    "STATUS_DANGER": [
+      "#f44336"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#f44336"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#ffffff"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "#222222"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#1a1a1a"
+    ],
+    "POLLS_VICTOR_FILL": [
+      "#ab47bc"
+    ],
+    "TEXT_LINK": [
+      "#b39ddb"
+    ],
+    "TEXT_MUTED": [
+      "#9e9e9e"
+    ],
+    "TEXT_NORMAL": [
+      "#e0e0e0"
+    ],
+    "TEXT_PRIMARY": [
+      "#e0e0e0"
+    ],
+    "TEXT_SECONDARY": [
+      "#bdbdbd"
+    ],
+    "BG_MOD_FAINT": [
+      "#202020"
+    ],
+    "KEYBOARD": [
+      "#121212"
+    ]
+  },
+  "rawColors": {
+    "BLUE_500": "#6a5acd",
+    "BRAND_500": "#6a5acd",
+    "PLUM_20": "#000000",
+    "PRIMARY_600": "#121212",
+    "WHITE_500": "#ffffff"
+  },
+  "background": {
+    "color": "#000000"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy",
+    "mentionLineColor": "#ab47bc"
+  },
+  "spec": 2
+}
